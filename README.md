@@ -32,8 +32,6 @@ I love building projects, learning new technologies and improving my skills ever
 
 </p>
 
-
-
 ---
   
 ### 🧠 What I'm Learning
@@ -44,9 +42,9 @@ I love building projects, learning new technologies and improving my skills ever
   <img src="https://img.shields.io/badge/React-black?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&labelColor=007ACC&color=007ACC" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker" />
 </p>
 
