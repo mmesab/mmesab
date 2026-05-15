@@ -1,6 +1,6 @@
-# Hi, I'm Maite M 👋🏻
+# Hi, I'm Maite 👋🏻
 
-I'm Maite M, a Web Development student focused on becoming a **Full Stack Developer**.  
+I'm Maite, a Web Development student focused on becoming a **Full Stack Developer**.  
 I love building projects, learning new technologies and improving my skills every day.
 
 ---
@@ -8,7 +8,7 @@ I love building projects, learning new technologies and improving my skills ever
 ### 🚀 About Me
 
 - 🎓 Currently studying Web Development & Programming
-- 💻 Learning: HTML, CSS, JavaScript and Git
+- 💻 Learning: JavaScript, Python, MySQL 
 - 🛠️ Working on personal projects to build my portfolio
 - 📚 Interested in Frontend and creative web interfaces
 - 🎯 Goal: Become a professional Full Stack Developer
