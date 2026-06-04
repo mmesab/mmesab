@@ -1,17 +1,17 @@
 # Hi, I'm Maite 👋🏻
 
-I'm Maite, a Web Development student focused on becoming a **Full Stack Developer**.  
+I am a Web Development student focused on becoming a **Full Stack Developer**.  
 I love building projects, learning new technologies and improving my skills every day.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Currently studying Web Development & Programming
-- 💻 Learning: JavaScript, Python, MySQL 
-- 🛠️ Working on personal projects to build my portfolio
-- 📚 Interested in Frontend and creative web interfaces
-- 🎯 Goal: Become a professional Full Stack Developer
+- 🎓 Currently studying Web Development & Software Programming
+- 💻 Deepening my knowledge in: Advanced JavaScript, Python, and Databases (SQL/NoSQL)
+- 🎨 Passionate about Frontend development and UI/UX creative web interfaces
+- 🛠️ Building full-stack personal projects to scale my portfolio
+- 🎯 Goal: Evolve into a high-performing, professional Full Stack Developer
 
 <p align="left">
 
@@ -54,12 +54,11 @@ I love building projects, learning new technologies and improving my skills ever
 ### 📂 Projects
 
 Here are some of the projects I'm working on:
-
-- 🖥️ Interactive CV (HTML, CSS, JS)
-- 🎨 Personal Portfolio (in progress)
-- ⚙️ Small JavaScript apps
-
----
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| 🖥️ **Interactive CV** | A dynamic and responsive digital resume. | HTML, CSS, JS | Completed |
+| 🎨 **Personal Portfolio** | My personal corner on the web to showcase my work. | React, Tailwind | In Progress |
+| ⚙️ **Mini JS Apps** | A collection of small, functional JavaScript applications. | JavaScript | Ongoing |
 
 ### ⚡ Fun Fact
 
