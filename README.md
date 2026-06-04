@@ -39,8 +39,8 @@ Here are some of the projects I've been crafting recently:
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| 🧠 **IdentityMap Nexus** | Collaborative academic personality testing system. | JavaScript, SQL/NoSQL | In Progress |
-| 🎶 **ENSAMBLIA** | Academic web platform for musicians with AI integration. | JS, Databases, AI | In Progress |
+| 🧠 **IdentityMap Nexus** | Collaborative academic personality testing system. | JS, SQL/NoSQL | In Progress |
+| 🎶 **Ensamblia** | Academic web platform for musicians with AI integration. | JS, Databases, AI | In Progress |
 | 🎨 **Personal Portfolio** | My personal corner to showcase my work and growth. | JavaScript, HTML/CSS | In Progress |
 | 🖥️ **Interactive CV** | Dynamic and responsive resume built as a class exercise. | JavaScript, HTML/CSS | Completed |
 
