@@ -1,7 +1,8 @@
 # Hi, I'm Maite 👋🏻
 
-I am a Web Development student focused on becoming a **Full Stack Developer**.  
-I love building projects, learning new technologies and improving my skills every day.
+I am a Web Development student driven by a deep curiosity for the IT sector. I love building projects, diving into new technologies, and learning how great software is made.
+
+✨ **Always open to connect!** Whether you want to collaborate on a project, have a brain-storming chat, or just talk about tech, feel free to reach out!
 
 ---
 
@@ -11,26 +12,7 @@ I love building projects, learning new technologies and improving my skills ever
 - 💻 Deepening my knowledge in: Advanced JavaScript, Python, and Databases (SQL/NoSQL)
 - 🎨 Passionate about Frontend development and UI/UX creative web interfaces
 - 🛠️ Building full-stack personal projects to scale my portfolio
-- 🎯 Goal: Evolve into a high-performing, professional Full Stack Developer
-
-<p align="left">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mmesab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:mmesab99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/mmesab_x" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-
-</p>
+- 🎯 Goal: Keep learning, exploring new tech, and growing within the IT industry
 
 ---
   
@@ -53,12 +35,16 @@ I love building projects, learning new technologies and improving my skills ever
 
 ### 📂 Projects
 
-Here are some of the projects I'm working on:
+Here are some of the projects I've been crafting recently:
+
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| 🖥️ **Interactive CV** | A dynamic and responsive digital resume. | HTML, CSS, JS | Completed |
-| 🎨 **Personal Portfolio** | My personal corner on the web to showcase my work. | React, Tailwind | In Progress |
-| ⚙️ **Mini JS Apps** | A collection of small, functional JavaScript applications. | JavaScript | Ongoing |
+| 🧠 **IdentityMap Nexus** | Collaborative academic personality testing system. | JavaScript, SQL/NoSQL | In Progress |
+| 🎶 **ENSAMBLIA** | Academic web platform for musicians with AI integration. | JS, Databases, AI | In Progress |
+| 🎨 **Personal Portfolio** | My personal corner to showcase my work and growth. | JavaScript, HTML/CSS | In Progress |
+| 🖥️ **Interactive CV** | Dynamic and responsive resume built as a class exercise. | JavaScript, HTML/CSS | Completed |
+
+---
 
 ### ⚡ Fun Fact
 
