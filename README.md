@@ -15,37 +15,27 @@ I am a Web Development student driven by a deep curiosity for the IT sector. I l
 - 🎯 Goal: Keep learning, exploring new tech, and growing within the IT industry
 
 ---
-  
-### 🧠 What I'm Learning
+
+### 🛠️ My Tech Stack
+
+Technologies and tools I use in my development and design projects:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/React-black?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&labelColor=007ACC&color=007ACC" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,xd,ps,ai,ae,pr,vscode,git,github,postman,wordpress,notion,trello&theme=dark&perline=8" />
+  </a>
 </p>
 
-
 ---
 
-### 📂 Projects
+### 🧠 What I'm Learning
 
-Here are some of the projects I've been crafting recently:
+Technologies I'm currently specializing in and exploring:
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| 🧠 **IdentityMap Nexus** | Collaborative academic personality testing system. | JS, SQL/NoSQL | In Progress |
-| 🎶 **Ensamblia** | Academic web platform for musicians with AI integration. | JS, Databases, AI | In Progress |
-| 🎨 **Personal Portfolio** | My personal corner to showcase my work and growth. | JavaScript, HTML/CSS | In Progress |
-| 🖥️ **Interactive CV** | Dynamic and responsive resume built as a class exercise. | JavaScript, HTML/CSS | Completed |
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,python,django,nodejs,mysql,postgres,docker&theme=dark" />
+  </a>
+</p>
 
 ---
-
-### ⚡ Fun Fact
-
-Every mistake is a chance to learn something new. 🚀
