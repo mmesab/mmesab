@@ -37,5 +37,3 @@ Technologies I'm currently specializing in and exploring:
     <img src="https://skillicons.dev/icons?i=react,tailwind,python,django,nodejs,mysql,postgres,docker&theme=dark" />
   </a>
 </p>
-
----
