@@ -22,7 +22,7 @@ Technologies and tools I use in my development and design projects:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,figma,ps,ai,ae,pr,vscode,git,docker,postman,postgres&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,figma,ps,ai,ae,pr,vscode,git,docker,postman,postgres&theme=dark&perline=8" />
   </a>
 </p>
 
