@@ -37,22 +37,3 @@ Technologies I'm currently specializing in and exploring:
     <img src="https://skillicons.dev/icons?i=c,bash,py,linux,vim,jest,django&theme=dark&perline=9" />
   </a>
 </p>
-
-- Shell scripting & Makefile (42 Piscine)
-- React Native (mobile development)
-- DevOps fundamentals & CI/CD pipelines
-- Good practices: Git workflow, code review, Clean Architecture
-
----
-
-### 📫 Let's Connect
-
-<a href="https://linkedin.com/in/mmesab">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-</a>
-<a href="https://instagram.com/x_mmesab_x">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
-</a>
-<a href="mailto:mmesab99@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-</a>
